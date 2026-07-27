@@ -1,0 +1,15 @@
+# Entornos virtuales de Python
+venv/
+env/
+.env
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Llaves y credenciales o secretos
+.env
+*.key
+
+# Sistema operativo
+.DS_Store

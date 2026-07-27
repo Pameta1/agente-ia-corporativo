@@ -1,0 +1,9 @@
+﻿Preguntas Frecuentes - Empresa
+1. ¿Cuál es el horario de atención al cliente?
+El horario de atención es de lunes a viernes de 9:00 AM a 6:00 PM.
+
+2. ¿Cuál es la política de reembolsos para compras online?
+Los clientes tienen un plazo de 30 días calendario desde la fecha de entrega para solicitar un reembolso o cambio de producto. El artículo debe estar sin uso y en su empaque original.
+
+3. ¿Cómo contactar con soporte técnico interno?
+Para problemas con sistemas o accesos, puedes enviar un correo a soporte@empresa.com o abrir un ticket en el portal de IT.
