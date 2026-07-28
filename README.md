@@ -51,31 +51,9 @@ agente-ia-corporativo/
 ├── requirements.txt    # Dependencias y librerías del proyecto
 └── README.md           # Documentación técnica y descriptiva del proyecto
 
-## ⚙️ Instalación y Ejecución Local
-Si deseas clonar y ejecutar este proyecto en tu entorno local:
 
-1. Clona el repositorio:
-   ```bash
-   git clone [https://github.com/Pameta1/agente-ia-corporativo.git](https://github.com/Pameta1/agente-ia-corporativo.git)
-1 Entra al directorio del proyecto:
-cd agente-ia-corporativo
-2 Crea y activa un entorno virtual:
-python -m venv venv
-# En Windows:
-venv\Scripts\activate
-3 Instala las dependencias>
-pip install -r requirements.txt
-4 Ejecuta la aplicación de Streamlit:
-streamlit run app.py
 🌐 Despliegue
 La aplicación se encuentra desplegada y accesible en Streamlit Cloud conectada directamente a la rama main de este repositorio.
 ---
+<img width="1227" height="852" alt="Captura de pantalla 2026-07-27 205829" src="https://github.com/user-attachments/assets/580be96e-fcc5-4e3b-b35c-e0dd138a4ce7" />
 
-### ¿Cómo agregarlo a tu GitHub rápidamente?
-1. Entra a tu repositorio en GitHub (`Pameta1/agente-ia-corporativo`).
-2. Haz clic en el botón **Add file** -> **Create new file**.
-3. Nómbralo exactamente `README.md`.
-4. Pega el texto de arriba en el editor.
-5. Haz clic en **Commit changes...** abajo del todo.
-
-Dime si con esto cubrimos el README o si necesitas revisar alguna otra cosa antes de las diez de la noche. ¡Estamos a tiempo!
