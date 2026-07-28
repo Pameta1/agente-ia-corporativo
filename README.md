@@ -86,8 +86,8 @@ La aplicación se encuentra operando de forma continua y accesible en la nube a 
 ## 📸 Demostración del Agente en la Nube
 
 ### Vista General de la Interfaz
-![Interfaz de la aplicación](./images/deploy-1.png)
+![Interfaz de la aplicación](./deploy-1.png)
 
 ### Funcionamiento y Respuestas del RAG
-![Resultados del Agente](./images/deploy-2.png)
+![Resultados del Agente](./deploy-2.png)
 
