@@ -76,16 +76,18 @@ Chaquetas de Mezclilla: Diseños exclusivos de colibríes y flores silvestres pi
 
 Accesorios: Gorros y bolsas de tela adaptados con detalles botánicos únicos.
 
-🌐 Despliegue en Línea
-La aplicación se encuentra operando de forma continua y accesible en la nube a través de Streamlit Cloud. Puedes acceder directamente a la interfaz en funcionamiento aquí:
+ ## 🌐 Demo en línea
 
-👉 Probar la aplicación en vivo
+🔗 [Ver demo en línea](https://agente-ia-corporativo-m9zyfcnx6uju2wkshb6fyu.streamlit.app/)
 
-📸 Demostración del Agente en la Nube
+
+## 📸 Demostración del Agente en la Nube
+Vista General de la Interfaz
+Funcionamiento y Respuestas del RAG
 Vista General de la Interfaz
 Funcionamiento y Respuestas del RAG
 ### Vista General de la Interfaz
-![Interfaz de la aplicación](deploy-1.png)
+![Interfaz de la aplicación](https://github.com/deploy-1.png)
 
 ### Funcionamiento y Respuestas del RAG
-![Resultados del Agente](deploy-2.png)
+![Resultados del Agente](https://github.com/deploy-2.png)
