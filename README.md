@@ -52,8 +52,18 @@ agente-ia-corporativo/
 └── README.md           # Documentación técnica y descriptiva del proyecto
 
 
-🌐 Despliegue
-La aplicación se encuentra desplegada y accesible en Streamlit Cloud conectada directamente a la rama main de este repositorio.
----
-Captura de pantalla 2026-07-27 205829.png
+## 🌐 Despliegue en Línea
+
+La aplicación se encuentra operando de forma continua y accesible en la nube a través de Streamlit Cloud. Puedes acceder directamente a la interfaz en funcionamiento aquí:
+
+👉 **[Probar la aplicación en vivo](https://agente-ia-corporativo-m9zyfcnx6uju2wkshb6fyu.streamlit.app/)**
+
+
+## 📸 Demostración del Agente en la Nube
+
+### Vista General de la Interfaz
+![Interfaz de la aplicación](./images/deploy-1.png)
+
+### Funcionamiento y Respuestas del RAG
+![Resultados del Agente](./images/deploy-2.png)
 
