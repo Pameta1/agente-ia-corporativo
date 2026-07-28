@@ -38,7 +38,6 @@ El flujo técnico implementado en el sistema sigue las etapas estándar de un pi
 * **LangChain / LlamaIndex (o librerías de soporte RAG):** Orquestadores para la gestión de fragmentos, vectores y llamadas al LLM.
 * **Git y GitHub:** Control de versiones y almacenamiento del código fuente corporativo.
 * **Streamlit Community Cloud:** Plataforma de alojamiento en la nube para la ejecución pública de la aplicación.
-
 ---
 
 ## 🗂️ Estructura del Proyecto
@@ -51,13 +50,38 @@ agente-ia-corporativo/
 ├── requirements.txt    # Dependencias y librerías del proyecto
 └── README.md           # Documentación técnica y descriptiva del proyecto
 
+---
+🎯 Funciones y Accesos Rápidos
+Barra de Consultas Inteligente: Campo de texto interactivo para plantear dudas sobre la tienda.
 
-## 🌐 Despliegue en Línea
+Visualización de Contexto RAG: Menú desplegable para revisar los fragmentos exactos de los documentos utilizados en la respuesta.
+
+Respuestas Verificables: Enlaces a canales de soporte interno y políticas oficiales de la marca.
+
+💡 Ejemplos de Preguntas para Probar el Deploy
+Puedes probar las siguientes consultas directamente en la aplicación en línea para verificar su comportamiento:
+
+"¿Cuál es el horario de atención al cliente?"
+
+"¿Cómo puedo solicitar un reembolso o cambio para una compra online?"
+
+"¿Cuáles son los plazos y condiciones para la entrega de los productos?"
+
+"¿Cuál es la política de privacidad de la tienda?"
+
+🧥 Muestra de Productos (Tienda Dany)
+El taller de Dany se especializa en la creación de piezas únicas pintadas a mano, destacando chaquetas de mezclilla, gorros y bolsas personalizadas con motivos florales y de naturaleza:
+
+Chaquetas de Mezclilla: Diseños exclusivos de colibríes y flores silvestres pintados artesanalmente.
+
+Accesorios: Gorros y bolsas de tela adaptados con detalles botánicos únicos.
+
+## 🌐 Estructura del Proyecto
 
 La aplicación se encuentra operando de forma continua y accesible en la nube a través de Streamlit Cloud. Puedes acceder directamente a la interfaz en funcionamiento aquí:
 
 👉 **[Probar la aplicación en vivo](https://agente-ia-corporativo-m9zyfcnx6uju2wkshb6fyu.streamlit.app/)**
-
+---
 
 ## 📸 Demostración del Agente en la Nube
 
