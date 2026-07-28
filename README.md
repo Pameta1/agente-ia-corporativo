@@ -55,5 +55,5 @@ agente-ia-corporativo/
 🌐 Despliegue
 La aplicación se encuentra desplegada y accesible en Streamlit Cloud conectada directamente a la rama main de este repositorio.
 ---
-<img width="1227" height="852" alt="Captura de pantalla 2026-07-27 205829" src="https://github.com/user-attachments/assets/580be96e-fcc5-4e3b-b35c-e0dd138a4ce7" />
+Captura de pantalla 2026-07-27 205829.png
 
